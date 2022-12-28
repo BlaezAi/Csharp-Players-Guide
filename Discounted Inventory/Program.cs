@@ -50,4 +50,4 @@ else
 {
     Console.WriteLine($"{itemname} costs {response} gold.");    
 }
-
+aaaaaaa
