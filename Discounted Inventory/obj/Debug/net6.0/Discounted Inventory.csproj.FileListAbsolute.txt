@@ -1,0 +1,15 @@
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\bin\Debug\net6.0\Discounted Inventory.exe
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\bin\Debug\net6.0\Discounted Inventory.deps.json
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\bin\Debug\net6.0\Discounted Inventory.runtimeconfig.json
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\bin\Debug\net6.0\Discounted Inventory.dll
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\bin\Debug\net6.0\Discounted Inventory.pdb
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\obj\Debug\net6.0\Discounted Inventory.csproj.AssemblyReference.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\obj\Debug\net6.0\Discounted Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\obj\Debug\net6.0\Discounted Inventory.AssemblyInfoInputs.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\obj\Debug\net6.0\Discounted Inventory.AssemblyInfo.cs
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\obj\Debug\net6.0\Discounted Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\obj\Debug\net6.0\Discounted Inventory.dll
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\obj\Debug\net6.0\refint\Discounted Inventory.dll
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\obj\Debug\net6.0\Discounted Inventory.pdb
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\obj\Debug\net6.0\Discounted Inventory.genruntimeconfig.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\Discounted Inventory\obj\Debug\net6.0\ref\Discounted Inventory.dll

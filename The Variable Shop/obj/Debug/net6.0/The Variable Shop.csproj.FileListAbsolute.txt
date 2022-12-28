@@ -1,0 +1,15 @@
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\obj\Debug\net6.0\The Variable Shop.csproj.AssemblyReference.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\obj\Debug\net6.0\The Variable Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\obj\Debug\net6.0\The Variable Shop.AssemblyInfoInputs.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\obj\Debug\net6.0\The Variable Shop.AssemblyInfo.cs
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\obj\Debug\net6.0\The Variable Shop.csproj.CoreCompileInputs.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\bin\Debug\net6.0\The Variable Shop.exe
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\bin\Debug\net6.0\The Variable Shop.deps.json
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\bin\Debug\net6.0\The Variable Shop.runtimeconfig.json
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\bin\Debug\net6.0\The Variable Shop.dll
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\bin\Debug\net6.0\The Variable Shop.pdb
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\obj\Debug\net6.0\The Variable Shop.dll
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\obj\Debug\net6.0\refint\The Variable Shop.dll
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\obj\Debug\net6.0\The Variable Shop.pdb
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\obj\Debug\net6.0\The Variable Shop.genruntimeconfig.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\The Variable Shop\obj\Debug\net6.0\ref\The Variable Shop.dll

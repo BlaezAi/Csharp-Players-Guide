@@ -1,0 +1,15 @@
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\bin\Debug\net6.0\HelloWorld Players Guide.exe
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\bin\Debug\net6.0\HelloWorld Players Guide.deps.json
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\bin\Debug\net6.0\HelloWorld Players Guide.runtimeconfig.json
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\bin\Debug\net6.0\HelloWorld Players Guide.dll
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\bin\Debug\net6.0\HelloWorld Players Guide.pdb
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\obj\Debug\net6.0\HelloWorld Players Guide.csproj.AssemblyReference.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\obj\Debug\net6.0\HelloWorld Players Guide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\obj\Debug\net6.0\HelloWorld Players Guide.AssemblyInfoInputs.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\obj\Debug\net6.0\HelloWorld Players Guide.AssemblyInfo.cs
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\obj\Debug\net6.0\HelloWorld Players Guide.csproj.CoreCompileInputs.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\obj\Debug\net6.0\HelloWorld Players Guide.dll
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\obj\Debug\net6.0\refint\HelloWorld Players Guide.dll
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\obj\Debug\net6.0\HelloWorld Players Guide.pdb
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\obj\Debug\net6.0\HelloWorld Players Guide.genruntimeconfig.cache
+C:\Users\Blaez\RiderProjects\HelloWorld Players Guide\HelloWorld Players Guide\obj\Debug\net6.0\ref\HelloWorld Players Guide.dll
