@@ -1,7 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 Console.WriteLine($"What is your name?");
-string name = Console.ReadLine();
+string userName = Console.ReadLine();
+string myName = "Blaez";
+string discountConfirmation = myName == userName ? $"You have the same name as {myName}! You get a discount." : "";
+Console.WriteLine(discountConfirmation);
 Console.WriteLine("What item do you want to see the price of?");
 Console.WriteLine("1 - Rope");
 Console.WriteLine("2 - Torch");
@@ -12,9 +15,6 @@ Console.WriteLine("6 - Canoe");
 Console.WriteLine("7 - Food Supplies");
 int choice = Convert.ToInt32(Console.ReadLine());
 
-string Blaez = null;
-string discoumtname = Blaez == name ? $"You have the same name as {Blaez}! You get a discount." : "";
-    Console.WriteLine(discoumtname);
 
 string response;
 
@@ -40,14 +40,14 @@ response = choice switch
     7 => "1",
 };
 
-if (discoumtname == Blaez)
+if (userName == myName)
 {
-    Convert.ToInt32(choice);
-    int discount = choice / 2;
-    Console.WriteLine($"{itemname} costs {choice} gold.");
+    int itemprice = Convert.ToInt32(response);
+    int discountprice =  itemprice/ 2;
+    Console.WriteLine($"{itemname} costs {discountprice} gold.");
 }
 else
 {
-    Console.WriteLine($"{itemname} costs {choice} gold.");    
+    Console.WriteLine($"{itemname} costs {response} gold.");    
 }
 
