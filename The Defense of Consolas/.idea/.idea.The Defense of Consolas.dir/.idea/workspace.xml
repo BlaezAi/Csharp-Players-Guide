@@ -4,25 +4,28 @@
     <projectFile>The Defense of Consolas.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83507e71-e59f-4e75-869e-3f001b601b92" name="Changes" comment="" />
+    <list default="true" id="83507e71-e59f-4e75-869e-3f001b601b92" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Discounted Inventory/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Discounted Inventory/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectId" id="2JUlcezX79bU5ZMwgWA2DKSCP5a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="The Defense of Consolas" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -52,12 +55,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672140625038</updated>
       <workItem from="1672140628096" duration="36000" />
+      <workItem from="1673312453454" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

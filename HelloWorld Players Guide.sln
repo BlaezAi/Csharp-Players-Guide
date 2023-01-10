@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buying Inventory", "Buying 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discounted Inventory", "Discounted Inventory\Discounted Inventory.csproj", "{98C801ED-D65E-40F5-8CE4-0C60C6EDDC68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Prototype", "The Prototype\The Prototype.csproj", "{1D19DB3E-0AFF-404F-8CAC-5DB3A3D9D562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{98C801ED-D65E-40F5-8CE4-0C60C6EDDC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98C801ED-D65E-40F5-8CE4-0C60C6EDDC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98C801ED-D65E-40F5-8CE4-0C60C6EDDC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D19DB3E-0AFF-404F-8CAC-5DB3A3D9D562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D19DB3E-0AFF-404F-8CAC-5DB3A3D9D562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D19DB3E-0AFF-404F-8CAC-5DB3A3D9D562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D19DB3E-0AFF-404F-8CAC-5DB3A3D9D562}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
