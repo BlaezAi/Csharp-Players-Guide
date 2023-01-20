@@ -14,46 +14,43 @@
 //     int hunternumber = Convert.ToInt32(Console.Read());
 // }
 
+int pilotnumber;
+bool pilotnumbervalid = false;
 
-// while (true)
-// {
-//     Console.WriteLine("Pilot, enter a number between 0 and 100.");
-//     int pilotnumber = Convert.ToInt32(Console.ReadLine());
-//
-//     if (pilotnumber <= 0 || pilotnumber >= 100)
-//     {
-//         Console.Clear();
-//         Console.WriteLine("Invalid, Choose a different number.");
-//         break;
-//     }
-//
-//     for (pilotnumber <=0 || pilotnumber >= 100)
-//     {
-//         if (pilotnumber >= 0 || pilotnumber <= 100)
-//         {
-//             Console.Clear();
-//     
-//             Console.WriteLine("Hunter guess the pilot's number.");
-//             int hunternumber = Convert.ToInt32(Console.ReadLine());
-//
-//             if (pilotnumber < hunternumber)
-//             {
-//                 Console.WriteLine("Number is too high try again.");
-//                 continue;
-//             }
-//
-//             if (pilotnumber > hunternumber)
-//             {
-//                 Console.WriteLine("Number is too low, try again.");
-//                 continue;
-//             }
-//
-//             if (hunternumber == pilotnumber)
-//             {
-//                 Console.WriteLine("You guessed correctly!");
-//                 break;
-//             }
-//         }
-//     }
+do
+{
+    Console.WriteLine("Pilot, enter a number between 0 and 100.");
+    pilotnumber = Convert.ToInt32(Console.ReadLine());
+    pilotnumbervalid = (pilotnumber >= 0 && pilotnumber <= 100);
 
+    if (!pilotnumbervalid)
+    {
+        Console.WriteLine("Invalid, Choose a different number.");
+    }
+} while (!pilotnumbervalid);
+Console.Clear();
 
+while (true)
+{
+
+    Console.WriteLine("Hunter guess the pilot's number.");
+    int hunternumber = Convert.ToInt32(Console.ReadLine());
+
+    if (pilotnumber < hunternumber)
+    {
+        Console.WriteLine("Number is too high try again.");
+        continue;
+    }
+
+    if (pilotnumber > hunternumber)
+    {
+        Console.WriteLine("Number is too low, try again.");
+        continue;
+    }
+
+    if (hunternumber == pilotnumber)
+    {
+        Console.WriteLine("You guessed correctly!");
+        break;
+    }
+}
