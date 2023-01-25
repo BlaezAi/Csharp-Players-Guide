@@ -11,7 +11,7 @@ for (int i = 0; i < userInputArray.Length; i++)
 int[] copiedArray = new int[5];
 for (int i = 0; i < userInputArray.Length; i++)
 {
-    copiedArray = userInputArray;
+    copiedArray[i] = userInputArray[i];
 }
 
 for (int i = 0; i < userInputArray.Length; i++)

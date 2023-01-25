@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Replicator of DTo", "The Replicator of DTo\The Replicator of DTo.csproj", "{BFFC3159-1CCF-485E-AC9F-09762F5B0876}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Laws of Freach", "The Laws of Freach\The Laws of Freach.csproj", "{327F68AE-B7C5-4ACD-B749-EA09DFEAE3C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{BFFC3159-1CCF-485E-AC9F-09762F5B0876}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFFC3159-1CCF-485E-AC9F-09762F5B0876}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFFC3159-1CCF-485E-AC9F-09762F5B0876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327F68AE-B7C5-4ACD-B749-EA09DFEAE3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327F68AE-B7C5-4ACD-B749-EA09DFEAE3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327F68AE-B7C5-4ACD-B749-EA09DFEAE3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327F68AE-B7C5-4ACD-B749-EA09DFEAE3C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
